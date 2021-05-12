@@ -11,5 +11,5 @@
 - reload your browser to see changes
 
 ### Troubleshooting
-###### If you can not see the changes:
+#### If you can not see the changes:
 Check that your terminal process hasn't crashed. If it has crashed, exit it (`ctrl + c`) and restart the project (`npm run start`)
