@@ -4,7 +4,7 @@
 - clone into your prefered projects folder and enter the project directory `cd job_tracker_ui`
 - install all dependencies `npm install`
 - run the project `npm run start`
-- navigate to your localhost instance `localhost:3000`
+- navigate to your localhost instance `http:127.0.0.1:3000` or `http:localhost:3000`
 
 ### Development Workflow
 - make changes to `pages/` directory
